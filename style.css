@@ -38,6 +38,7 @@ html {
     padding: 10px 30px;
     color: white;
     border-radius: 10px;
+    margin-bottom: 20px;
   
 }
 
@@ -96,9 +97,7 @@ border-radius: 10px!important;
 transition: transform .3s ease-out;
 }
 
-.card:hover{
-    transform: translateY(-10px);
-    }
+
 
 
 #contact{
